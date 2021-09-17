@@ -1,3 +1,3 @@
 # Gratz
 
-Adnroid application. Just a congratulation for one person.
+Android application. Just a congratulation for one person.
